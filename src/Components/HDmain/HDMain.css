@@ -1,0 +1,29 @@
+.btn-style{
+    font-weight: 400;
+    border: 1px solid #7510f7;
+    color:#7510f7 ;
+    text-transform: uppercase;
+}
+.btn-style:hover{
+    background-color: #7510f7;
+    color: white;
+    border:none;
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+  transition: all 0.2s ease-in-out;
+}
+.btn-style1{
+    background-color: #4f0da5;
+    color: white;
+    border: 1px solid #7510f7;
+    border:none;
+    text-transform: uppercase;
+}
+.btn-style1:hover{
+    font-weight: 400;
+    border: 1px solid #7510f7;
+    color:#7510f7 ;
+    background-color: black;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+    
+}

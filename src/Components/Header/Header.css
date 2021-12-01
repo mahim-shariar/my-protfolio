@@ -1,0 +1,14 @@
+
+.text-All-color {
+    color: #fffffe !important ;
+}
+.logo-width{
+    width: 35px;
+}
+.header-color{
+    color: #7510f7 !important ;
+    font-weight: 600 !important ;
+}
+.header-color:hover{
+    color: #fffffe !important ;
+}

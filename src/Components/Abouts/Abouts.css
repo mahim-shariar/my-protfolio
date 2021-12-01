@@ -1,0 +1,20 @@
+.abouts-color{
+    color: #7510f7;
+}
+.hr-style{
+   font-size: 25px; 
+   line-height: 0px;
+   background-color: #7510f7;
+}
+.margin-width{
+    margin-top: 130px;
+}
+.progress-bar{
+    background-color: #640dfd;
+    border: #7510f7;
+}
+.progress{
+    height: 7px;
+    margin-top: 5px;
+    border: #7510f7;
+}

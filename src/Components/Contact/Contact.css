@@ -1,0 +1,11 @@
+.back-color{
+    background-color: #640dfd;
+    margin-top: 10px;
+    color: white;
+    border: solid 1px #640dfd;
+}
+.back-color:hover{
+    background-color: black;
+    color:#640dfd ;
+    border: solid 1px #640dfd;
+}
